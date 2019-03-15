@@ -1,5 +1,5 @@
-#Heading
+# Heading
 
-##Sub Heading
+## Sub Heading
 
-$$m_n$$
+
